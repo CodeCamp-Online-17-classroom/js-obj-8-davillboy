@@ -17,3 +17,5 @@ multiplyNumeric(menu, 3)
 //  title: 'My menu'
 // };
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
